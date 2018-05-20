@@ -1,7 +1,7 @@
 # Airbnb Property Quality Predictor
 
 
-Project Proposal: Airbnb Property Quality Predictor
+Project Proposal: Airbnb Property Price Predictor
  
 Unlike established hospitality industry where dedicated management team controls how a property is maintained, Airbnb provides a listing of rental properties posted by individual users without any formal control. Current establishment of hospitality industry relies on the five-star rating system that provides certain measurement of qualities of property that determines pricing point. This allows individual users to gauge the overall quality of a property by looking at the associated star rating, thus users can make an informed decision.
 

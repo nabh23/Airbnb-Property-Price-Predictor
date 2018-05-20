@@ -1,4 +1,4 @@
-# Airbnb Property Quality Predictor
+# Airbnb Property Price Predictor
 
 
 Project Proposal: Airbnb Property Price Predictor
